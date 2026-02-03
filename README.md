@@ -75,11 +75,11 @@ Autonomous delivery robot focused on **navigation, sensing, and controlled decis
 
 
 ## 📈 Contribution Activity
-![GitHub Contribution Snake](https://raw.githubusercontent.com/MilanM002005/MilanM002005/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilanM002005&theme=github-dark" />
+</p>
 
 ---
-<h3 align="left">Languages & Tools</h3>
 
 <h3 align="left">Languages & Tools</h3>
 
