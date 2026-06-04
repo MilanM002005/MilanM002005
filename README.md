@@ -1,3 +1,5 @@
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <!-- Profile Banner -->
 <h1 align="center">Milan Manoj</h1>
 <h3 align="center">
