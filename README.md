@@ -142,8 +142,12 @@ Autonomous delivery robot focused on **navigation, sensing, and controlled decis
 - Build for deployment, not demos
 
 ---
+## Snake Animation
 
-## 📫 Connect
+![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINK
-- Email: your.email@example.com
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
