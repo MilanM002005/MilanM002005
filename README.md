@@ -2,7 +2,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <!-- Profile Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Milan%20Manoj&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20Developer%20%7C%20Full-Stack%20Enthusiast%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Milan%20Manoj&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20Developer%20%7C%20Full-Stack%20%7C%20Robotics%20Operator&descAlign=50&descAlignY=60&animation=twinkling"/>
 </div>
 
 <h1 align="center">
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=MilanM002005&label=Profile%20Views&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Kerala,%20India-blue?style=flat-square&logo=googlemaps" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI Robotics-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-Python?style=flat-square" />
+ 
 </div>
 
 ---
