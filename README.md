@@ -61,26 +61,27 @@ Autonomous delivery robot focused on **navigation, sensing, and controlled decis
 
 ## 🧩 Technical Skill Set
 
-### AI & Intelligent Systems
-- Agentic AI architectures
-- LLM integration & orchestration
-- AI governance & policy enforcement
-- Human-in-the-loop workflows
+<div align="center">
 
-### Full-Stack Development
-- MongoDB, Express, React, Node.js
-- RESTful APIs & authentication
-- Secure file uploads & backend services
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,r" />
 
-### Robotics & Embedded Systems
-- Mobile robot control systems
-- Sensors, motors & actuators
-- Autonomous navigation logic
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
 
-### DevOps & Tooling
-- Docker & environment isolation
-- Git & GitHub workflows
-- Cloud-ready application design
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+
+### AI & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,ros,vscode,figma" />
+
+</div>
 
 ---
 
