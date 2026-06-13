@@ -77,18 +77,10 @@ Autonomous delivery robot focused on **navigation, sensing, and controlled decis
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase" />
-<p align="left">
-  <strong>Robotics & Autonomy</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="36"/>
-  <img src="https://img.shields.io/badge/ROS2-Humble-blue"/>
-  <img src="https://img.shields.io/badge/Nav2-Navigation-green"/>
-  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-orange"/>
-  <img src="https://img.shields.io/badge/Mission%20Planner-ArduPilot-blueviolet"/>
 
-</p>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,ros,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,ros,vscode,yolov8,figma" />
 
 </div>
 
