@@ -108,7 +108,7 @@ Autonomous delivery robot focused on **navigation, sensing, and controlled decis
 ---
 ## Snake Animation
 
-![Snake Animation](https://github.com/tubakhxn/tubakhxn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MilanM002005/MilanM002005/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
