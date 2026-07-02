@@ -1,15 +1,5 @@
-## Hi there 👋
 
-<!--
-**MilanM002005/MilanM002005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborat<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<!-- Profile Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Milan%20Manoj&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20Developer%20%7C%20Full-Stack%20%7C%20Robotics%20Operator&descAlign=50&descAlignY=60&animation=twinkling"/>
 </div>
