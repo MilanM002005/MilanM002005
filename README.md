@@ -94,20 +94,6 @@ Autonomous delivery robot focused on **navigation, sensing, and controlled decis
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilanM002005&theme=github-dark" />
 </p>
 
----
-
-
-
-
-
-## 🧠 Engineering Principles
-
-- Intelligent systems must be **controllable**
-- Safety and explainability over black-box behavior
-- Systems thinking over isolated features
-- Build for deployment, not demos
-
----
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
