@@ -33,23 +33,6 @@ My work focuses on:
 
 ## 🚀 Active Projects
 
-### 🔐 AegisAI – Governed Agentic AI
-Policy-aware AI agents that operate within **explicit decision boundaries**.
-
-- Human-in-the-loop enforcement
-- Auditability & policy constraints
-- Designed for regulated domains
-
----
-
-### 🌱 ZeroDump – Smart Waste Reporting Platform
-A full-stack MERN platform enabling communities to report illegal dumping and receive AI-guided waste management support.
-
-- Secure photo uploads & backend validation  
-- Location and waste-type tracking  
-- AI chatbot for recycling guidance  
-- Built for municipal-scale deployment  
-
 ---
 
 ### 🤖 Smart Delivery Robot
